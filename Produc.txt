@@ -1,0 +1,7 @@
+Produc_P001_Arroz, Whole, 1 Mxn_34.50
+Produc_P002_Atun, Whole, 1 Mxn_21.50
+Produc_P003_Agua, Whole, 1 Mxn_11.00
+Produc_P004_Lentejas, Whole, 1 Mxn_59.99
+Produc_P005_Frijoles, Whole, 1 Mxn_39.99
+Produc_P006_Jugos, Whole, 1 Mxn_20.50
+Produc_P007_Refrescos, Whole, 1 Mxn_22.50

@@ -1,0 +1,1 @@
+Venta $ 234.8MXN,$ 37.57MXN,[Agua, Refrescos, Agua],[6, 5, 6],Venta $ 200.0MXN,$ 32.0MXN,[Salsa, Atun],[5, 5],
